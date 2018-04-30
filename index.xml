@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title>Dimitris Skourtis on Dimitris Skourtis</title>
     <link>/</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content in Dimitris Skourtis on Dimitris Skourtis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -52,6 +52,15 @@
       <pubDate>Tue, 29 Apr 2014 23:36:49 -0700</pubDate>
       
       <guid>/publication/erails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QBox: guaranteeing I/O performance on black box storage systems</title>
+      <link>/publication/qbox/</link>
+      <pubDate>Sat, 30 Jun 2012 00:02:08 -0700</pubDate>
+      
+      <guid>/publication/qbox/</guid>
       <description></description>
     </item>
     

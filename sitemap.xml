@@ -5,6 +5,33 @@
     
     <url>
     
+      <loc>/project/containers/</loc>
+      <lastmod>2018-04-29T23:49:45-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/rails/</loc>
+      <lastmod>2018-04-29T23:34:07-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/docker_registry/</loc>
+      <lastmod>2018-02-15T23:44:01-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
@@ -32,6 +59,34 @@
     
     <url>
     
+      <loc>/publication/rails/</loc>
+      <lastmod>2014-06-29T20:10:28-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/erails/</loc>
+      <lastmod>2014-04-29T23:36:49-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2018-02-15T23:44:01-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2016-04-20T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -51,7 +106,18 @@
     
     <url>
     
+      <loc>/project/</loc>
+      <lastmod>2018-04-29T23:49:45-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/</loc>
+      <lastmod>2018-02-15T23:44:01-07:00</lastmod>
       <priority>0</priority>
     </url>
     

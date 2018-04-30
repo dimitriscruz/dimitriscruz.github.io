@@ -10,5 +10,50 @@
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Containers</title>
+      <link>/project/containers/</link>
+      <pubDate>Sun, 29 Apr 2018 23:49:45 -0700</pubDate>
+      
+      <guid>/project/containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rails</title>
+      <link>/project/rails/</link>
+      <pubDate>Sun, 29 Apr 2018 23:34:07 -0700</pubDate>
+      
+      <guid>/project/rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Docker Registry Design Based on Production Workload Analysis</title>
+      <link>/publication/docker_registry/</link>
+      <pubDate>Thu, 15 Feb 2018 23:44:01 -0700</pubDate>
+      
+      <guid>/publication/docker_registry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flash on Rails: Consistent Flash Performance through Redundancy</title>
+      <link>/publication/rails/</link>
+      <pubDate>Sun, 29 Jun 2014 20:10:28 -0700</pubDate>
+      
+      <guid>/publication/rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erasure Coding &amp; Read/Write Separation in Flash Storage</title>
+      <link>/publication/erails/</link>
+      <pubDate>Tue, 29 Apr 2014 23:36:49 -0700</pubDate>
+      
+      <guid>/publication/erails/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
